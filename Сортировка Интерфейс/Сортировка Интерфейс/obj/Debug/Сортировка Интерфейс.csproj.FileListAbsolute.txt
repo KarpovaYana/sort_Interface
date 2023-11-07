@@ -1,0 +1,11 @@
+C:\Users\ляля\source\repos\Сортировка Интерфейс\Сортировка Интерфейс\bin\Debug\Сортировка Интерфейс.exe.config
+C:\Users\ляля\source\repos\Сортировка Интерфейс\Сортировка Интерфейс\bin\Debug\Сортировка Интерфейс.exe
+C:\Users\ляля\source\repos\Сортировка Интерфейс\Сортировка Интерфейс\bin\Debug\Сортировка Интерфейс.pdb
+C:\Users\ляля\source\repos\Сортировка Интерфейс\Сортировка Интерфейс\obj\Debug\Сортировка Интерфейс.csproj.AssemblyReference.cache
+C:\Users\ляля\source\repos\Сортировка Интерфейс\Сортировка Интерфейс\obj\Debug\Сортировка Интерфейс.csproj.SuggestedBindingRedirects.cache
+C:\Users\ляля\source\repos\Сортировка Интерфейс\Сортировка Интерфейс\obj\Debug\Сортировка_Интерфейс.Form1.resources
+C:\Users\ляля\source\repos\Сортировка Интерфейс\Сортировка Интерфейс\obj\Debug\Сортировка_Интерфейс.Properties.Resources.resources
+C:\Users\ляля\source\repos\Сортировка Интерфейс\Сортировка Интерфейс\obj\Debug\Сортировка Интерфейс.csproj.GenerateResource.cache
+C:\Users\ляля\source\repos\Сортировка Интерфейс\Сортировка Интерфейс\obj\Debug\Сортировка Интерфейс.csproj.CoreCompileInputs.cache
+C:\Users\ляля\source\repos\Сортировка Интерфейс\Сортировка Интерфейс\obj\Debug\Сортировка Интерфейс.exe
+C:\Users\ляля\source\repos\Сортировка Интерфейс\Сортировка Интерфейс\obj\Debug\Сортировка Интерфейс.pdb
